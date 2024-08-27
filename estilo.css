@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --color1: #0B2B40;
+    --color2: #164773;
+    --color3: #1E5959;
+    --color4: #3B8C6E;
+    --color5: #89D99D;
+}
+
+body{
+    background-image: url('./imagem/C360_2012-11-19-17-59-02.jpg');
+}
+
+.Cabecalho{
+    background-color: #164873a2;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 12px;
+    color: white;  
+}
+.Fundo{
+    background-color: #3B8C6E;
+    margin: 10px;
+    border-radius: 20px;
+}
+.Fundo_reservar{
+    padding: 20px;
+    color: white;
+}
+.Fundo_mensagem{
+    padding: 20px;
+    
+}
+.rodapé{
+    background-color: white;
+    text-align: center;
+}
